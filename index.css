@@ -1,0 +1,34 @@
+a {
+    color:aquamarine;
+
+}
+
+.profile {
+    background-color: cadetblue;
+    color:darkslateblue;
+}
+
+#name{
+    background-color: antiquewhite;
+}
+
+.profile > #major {
+    background-color: darksalmon; 
+}
+
+.card{
+    border: 4px;
+    border-color:blueviolet;
+    border-style: solid;
+    margin:3px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+}
+
+#food{
+    text-align:center;
+}
